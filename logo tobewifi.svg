@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="logo tobewifi.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1103">
+      <stop
+         style="stop-color:#030800;stop-opacity:1;"
+         offset="0"
+         id="stop1099" />
+      <stop
+         style="stop-color:#030800;stop-opacity:0;"
+         offset="1"
+         id="stop1101" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path817"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000008;fill-opacity:0"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1103"
+       id="radialGradient1107"
+       cx="164.78998"
+       cy="191.07471"
+       fx="164.78998"
+       fy="191.07471"
+       r="147.14726"
+       gradientTransform="matrix(1,0,0,1.0199545,0,-3.8128075)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-127.14286"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <g
+       id="g1236">
+      <path
+         transform="matrix(0.4060362,0,0,0.33665621,65.865752,113.73139)"
+         inkscape:transform-center-y="0.016837188"
+         inkscape:transform-center-x="0.0055006976"
+         d="m 310.69642,195.70238 -151.17816,-3.67971 150.36197,16.1138 -150.3752,-15.98989 148.54823,28.31607 L 159.48175,192.26899 305.22768,232.59891 159.44857,192.3891 301.42228,244.46447 159.40571,192.50611 296.66238,255.98037 159.35345,192.61923 290.97967,267.06998 159.29215,192.72771 284.41197,277.6595 159.22221,192.83084 277.00297,287.67845 159.14409,192.92793 268.80199,297.06016 159.05832,193.01832 259.8636,305.7422 158.96547,193.10142 l 91.28181,120.56537 -91.38112,-120.49011 81.15088,127.60451 -81.256,-127.5376 70.47991,133.79447 -70.59014,-133.73635 59.33991,139.09405 -59.4545,-139.0451 47.805,143.46797 -47.9232,-143.42853 35.95196,146.88714 -36.07299,-146.85747 23.85967,149.32881 -23.98271,-149.3091 11.60859,150.77672 -11.73282,-150.7671 -0.71974,151.22122 0.59513,-151.22176 L 144.88183,344.10794 157.80096,193.43786 132.52095,342.53279 157.6781,193.41708 120.32958,339.95535 157.55734,193.38636 108.38886,336.39278 157.43948,193.34589 96.778261,331.86879 157.32532,193.29595 85.57504,326.41347 157.2156,193.23687 74.853755,320.06314 157.11107,193.16905 64.685756,312.86006 157.01241,193.09293 55.138707,304.85216 156.92029,193.00902 46.276144,296.09273 156.83531,192.91789 38.157046,286.64007 156.75804,192.82013 30.835443,276.55707 156.689,192.7164 24.360059,265.91085 156.62864,192.60738 18.773987,254.77225 156.57737,192.49381 14.114402,243.2154 156.53553,192.37644 10.412313,231.3172 156.50339,192.25604 7.6923552,219.15683 156.48117,192.13343 5.9726306,206.81523 156.46903,192.00942 5.2645835,194.37452 156.46703,191.88483 5.5729258,181.91749 156.47519,191.76048 6.8956055,169.52705 156.49346,191.63722 9.2238204,157.28564 156.52171,191.51586 12.542077,145.27474 156.55977,191.3972 16.828292,133.57427 156.60737,191.28205 22.053942,122.2621 156.66419,191.17115 28.184251,111.41351 156.72987,191.06525 35.178422,101.10069 156.80396,190.96506 42.989912,91.39228 156.88597,190.87125 51.566735,82.352881 156.97535,190.78443 60.851814,74.042651 157.07152,190.70518 70.783359,66.516893 157.17382,190.63404 81.295276,59.82569 157.28158,190.57147 92.317612,54.013569 157.39408,190.51789 103.77701,49.119211 157.51058,190.47366 115.59722,45.175186 157.63029,190.43908 127.69957,42.20774 157.75242,190.41436 140.00352,40.236623 157.87616,190.39969 152.4272,39.274951 158.00069,190.39515 164.88793,39.329124 158.12517,190.40077 177.30278,40.398781 158.24878,190.41652 189.58913,42.476805 158.37069,190.4423 201.66522,45.549366 158.4901,190.47792 213.45069,49.596017 158.60621,190.52316 224.8671,54.589828 158.71824,190.57771 235.83848,60.497566 158.82545,190.64122 246.29182,67.279916 158.92713,190.71325 256.15756,74.891743 159.0226,190.79333 265.37003,83.28239 159.11123,190.88092 273.86793,92.396021 159.19242,190.97545 281.59471,102.17199 159.26564,191.07628 288.49895,112.54522 159.33039,191.18274 294.5347,123.44671 159.38625,191.29413 299.6618,134.80389 l -140.22895,56.6058 144.41327,-44.86851 -144.37625,44.9875 147.58995,-32.9482 -147.56275,33.0698 149.78444,-20.80861 -149.76725,20.93203 150.98214,-8.53055 -150.97506,8.65495 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="0.065547327"
+         sodipodi:arg1="0.024747422"
+         sodipodi:r2="1.5274915"
+         sodipodi:r1="152.74915"
+         sodipodi:cy="191.92262"
+         sodipodi:cx="157.99405"
+         sodipodi:sides="77"
+         id="path10"
+         style="opacity:1;fill:url(#radialGradient1107);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:markers stroke fill;"
+         sodipodi:type="star" />
+      <text
+         transform="scale(1.1467969,0.871994)"
+         id="text1231"
+         y="238.30167"
+         x="65.161705"
+         style="font-style:normal;font-weight:normal;font-size:5.66390181px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30342332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.41909218px;font-family:'Tw Cen MT Condensed Extra Bold';-inkscape-font-specification:'Tw Cen MT Condensed Extra Bold,  Bold';stroke-width:0.30342332"
+           y="238.30167"
+           x="65.161705"
+           id="tspan1229"
+           sodipodi:role="line">Tobewifi.com</tspan></text>
+    </g>
+  </g>
+</svg>
